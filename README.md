@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1>👋 Hello! I’m Miguel Carvajal</h1>
+  
+  <ul>
+    <li>🎓 <strong>Software Development</strong> student at Universidad Politécnica Nacional</li>
+    <li>🇪🇨 From beautiful <strong>Ecuador</strong></li>
+    <li>💻 Passionate about <strong>web development</strong> and creating software projects that make an impact</li>
+    <li>⚽🏀🥋 In my free time, I enjoy <strong>soccer</strong>, <strong>kickboxing</strong>, and <strong>basketball</strong></li>
+  </ul>
+  
+  <h2>💼 Skills</h2>
+  <ul>
+    <li><strong>Programming Languages:</strong> JavaScript, Python, C++</li>
+    <li><strong>Technologies:</strong> React, Node.js, Express, MongoDB</li>
+    <li><strong>Tools:</strong> Git, GitHub, VS Code, Docker</li>
+  </ul>
 
-<!--
-**Miguel2314carvajal/Miguel2314carvajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>🚀 Currently Learning</h2>
+  <ul>
+    <li>Improving my skills in <strong>Full Stack Development</strong></li>
+    <li>Diving into <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong></li>
+  </ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>📫 Let’s Connect!</h2>
+  <ul>
+    <li>Reach me by email at: <a href="mailto:miguelcarvajal2017@gmail.com">miguelcarvajal2017@gmail.com</a></li>
+  </ul>
